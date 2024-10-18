@@ -27,12 +27,6 @@ EDA was conducted to explore the following:
 - **Borrower Profiles**: Analyzed the borrower's income, employment length, loan status and homeownership status.
 - **Default Rate Analysis**: Analyzed default rates across different grades.
 
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Conclusions
 This case study provided analysis of Lending Club case study data. Using the predictive model built in this project, we can assess the risk of loan defaults with higher accuracy, providing valuable insights for bank's.
 
