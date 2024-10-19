@@ -40,9 +40,7 @@ The project was built using the following technologies:
 - **Jupyter Notebook**: For interactive code development and documentation.
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by Upgrad...
-- References if any...
+- This project was inspired by Upgrad.
 - This project was based on [Upgrad Learning](https://www.upgrad.com).
 
 
